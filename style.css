@@ -4,3 +4,15 @@ div{
     padding: 30px;
     margin: 20px;
 }
+h2{
+    text-align: center;
+    text-shadow: 1px;
+    background-color: blanchedalmond;
+    color: azure;
+    margin: auto;
+    padding: 10px;
+    color: black;
+    height: auto;
+    font-weight: bolder;
+    width: 200px;
+}
