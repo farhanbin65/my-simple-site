@@ -16,3 +16,11 @@ h2{
     font-weight: bolder;
     width: 200px;
 }
+img{
+    height: 500px;
+    width: auto;
+    align-self: auto;
+    margin: auto;
+    padding: auto;
+    border: 20px;
+}
